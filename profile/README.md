@@ -1,5 +1,3 @@
-Void *Studio
-
 <p align="center">
     <img width="150" src="/src/logo.png" alt="{Logo}"><br />
     <b>Void *Studio</b>
