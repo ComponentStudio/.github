@@ -1,4 +1,4 @@
-# void *Studio
+# void *Studio &middot; ![license](https://img.shields.io/badge/license-%EC%A4%80%EB%B9%84%EC%A4%91-blue)
 
 void *Studio의 모습은 프로젝트 목적에 따라 **Web Developer** Studio가 될 수 있고 Secure, Android, iOS, Game **Developer Studio** 등 분야의 경계 없이 상상하는 모든 것을 실현할 수 있도록 연구하고 개발합니다.
 
