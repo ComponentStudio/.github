@@ -1,9 +1,11 @@
 # void *Studio
-![license](https://img.shields.io/badge/license-%EC%A4%80%EB%B9%84%EC%A4%91-blue)
+![license](https://img.shields.io/badge/license-GPLv3.0-blue)
 
-void *Studio의 모습은 프로젝트 목적에 따라 Web Developer Studio가 될 수 있고 Secure, Android, iOS, Game Developer Studio 등 분야의 경계 없이 상상하는 모든 것을 실현할 수 있도록 연구하고 개발합니다.
+void *Studio는 프로젝트 목적에 따라 다양한 모습을 가집니다. Web, Android, iOS, Game Development, Secure 등 분야의 경계없이 상상하는 모든 것을 실현할 수 있도록 끊임없이 연구하고 개발합니다.
 
-* **서비스** 사용자의 행동 패턴을 닮은 경험을 지향하며 사용하기 쉽고 모든 사람을 위해 설계합니다.
-* **데이터보안** 사용자 데이터를 가장 중요시 생각하며 보안 이슈를 지속적으로 추적하여 허점이 없는 방어체계를 유지합니다.
-* **유지보수** 끊임없는 관심과 지속적인 업데이트를 통해 피드백을 제공하고 우호적인 관계를 유지합니다.
+* **서비스:** 사람의 행동 패턴을 닮은 경험을 지향하며 사용하기 쉽고 모든 사람을 위해 설계합니다.
+* **데이터보안:** 사용자 데이터를 가장 중요시 생각하며 보안 이슈를 지속적으로 추적하여 허점이 없는 방어체계를 유지합니다.
+* **유지보수:** 끊임없는 관심과 지속적인 업데이트를 통해 피드백을 제공하고 우호적인 관계를 유지합니다.
 
+## Terms of service
+- 기본적으로 공개 저장소(Repository)에 라이센스가 명시되어 있지 않을 경우 기본적으로 GPL-3.0를 채택합니다.
