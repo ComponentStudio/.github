@@ -1,7 +1,7 @@
 # void Pointer
 ![license](https://img.shields.io/badge/license-GPLv3.0-blue)
 
-모든 데이터 자료형을 가르킬 있는 void 포인터의 특성과 같이 void Pointer Studio는 Web, APP, Back, Security, Server 등 다양한 분야를 경계없이 끊임없이 연구하고 개발합니다.
+모든 데이터 자료형을 가리킬 있는 void 포인터의 특성과 같이 void Pointer Studio는 Web, APP, Back, Security, Server 등 다양한 분야를 경계없이 끊임없이 연구하고 개발합니다.
 
 
 * **서비스:** 사람의 행동 패턴을 닮은 경험을 지향하며 사용하기 쉽고 모든 사람을 위해 설계합니다.
