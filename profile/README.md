@@ -1,5 +1,5 @@
 # Arrow Function
-![Services](https://img.shields.io/badge/Services-1-brightgreen)
+![Services](https://img.shields.io/badge/Services-2-brightgreen)
 ![Outsourcing](https://img.shields.io/badge/Outsourcing-1-blueviolet)
 
 **Application, Web, Server, Security 등 다양한 분야를 끊임없이, 상상하는 것을 실현할 수 있도록 연구하고 개발합니다.**
@@ -9,8 +9,9 @@
 **유지보수:** 끊임없는 관심과 지속적인 업데이트를 통해 피드백을 제공하고 신뢰적 관계를 유지합니다.  
 
 ## Experience
-- 23.01 - Wordy 개발 및 서비스
-- 22.07 - (주)로보그램 공식사이트 보수
+- 23.04 - KGU Card 개발
+- 23.01 - Voca Manager 개발
+- 22.07 - (주)로보그램 사이트 보수
 
 ## Executives
 <b>김관식</b> · gwansikk@icloud.com
