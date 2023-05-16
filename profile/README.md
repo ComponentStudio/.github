@@ -1,4 +1,4 @@
-# Arrow Function
+# ArrowFunction
 ![Services](https://img.shields.io/badge/Services-01-brightgreen)
 ![Outsourcing](https://img.shields.io/badge/Outsourcing-02-blueviolet)
 
@@ -8,7 +8,7 @@
 **데이터보안:** 사용자 데이터를 가장 중요시 생각하며 보안 이슈를 지속적으로 추적하여 허점이 없는 방어체계를 유지합니다.  
 **유지보수:** 끊임없는 관심과 지속적인 업데이트를 통해 피드백을 제공하고 신뢰적 관계를 유지합니다.  
 
-## Experience
+## Experiences
 - 23.04 - Membership Card for Univ.
 - 23.01 - [Voca Manager](https://vocamanager.com)
 - 22.07 - (주)로보그램 공식사이트 보수
