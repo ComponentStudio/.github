@@ -9,9 +9,9 @@
 **유지보수:** 끊임없는 관심과 지속적인 업데이트를 통해 피드백을 제공하고 신뢰적 관계를 유지합니다.  
 
 ## Experience
-- 23.06 - Magicake
+- 23.06 - Caiing
 - 23.04 - Membership Card for Univ.
-- 23.01 - [Voca Manager](https://vocamanager.com)
+- 23.01 - Voca Manager
 - 22.07 - (주)로보그램 공식사이트 보수
 
 ## Executives
