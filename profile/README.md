@@ -18,3 +18,6 @@
 
 ## Executives
 <b>김관식</b> · gwansikk@icloud.com
+
+## License
+Copyright © 2023 Compoent Studio. All rights reserved.
