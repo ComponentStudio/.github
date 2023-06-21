@@ -19,5 +19,7 @@
 ## Executives
 <b>김관식</b> · gwansikk@icloud.com
 
-## License
+## Information
+* 사업자등록번호 : 733-01-02880
+  
 Copyright © 2023 Compoent Studio. All rights reserved.
