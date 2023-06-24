@@ -23,4 +23,4 @@
 * 사업자등록번호: 733-01-02880
 * 이메일: gwansikk@icloud.com
   
-Copyright © 2023 Compoent Studio. All rights reserved.
+Copyright © 2023 Component Studio. All rights reserved.
