@@ -17,7 +17,7 @@
 - 22.07 - (주)로보그램 공식사이트 보수
 
 ## Executives
-**김관식** / Full-Stack, Infra
+**김관식**
 
 ## Information
 * 사업자등록번호: 733-01-02880
