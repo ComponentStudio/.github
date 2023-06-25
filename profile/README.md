@@ -10,11 +10,11 @@
 **유지보수:** 끊임없는 관심과 지속적인 업데이트를 통해 피드백을 제공하고 신뢰적 관계를 유지합니다.  
 
 ## Experience
-- 23.06 - auto-container
-- 23.06 - Caiing
-- 23.04 - Membership Card for Univ.
-- 23.01 - Voca Manager
-- 22.07 - (주)로보그램 공식사이트 보수
+- 23.06 - auto-container / 컨테이너 관리 자동화 시스템
+- 23.06 - Caiing / 미공개 중계 플랫폼
+- 23.04 - Membership Card for Univ. / 대학교 멤버십 플랫폼
+- 23.01 - VocaManager / 영어학원 업무 자동화 시스템
+- 22.07 - (주)로보그램 / 공식사이트 보수
 
 ## Executives
 **김관식**
