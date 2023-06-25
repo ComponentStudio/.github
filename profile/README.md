@@ -12,7 +12,7 @@
 ## Experience
 - 23.06 - auto-container / 컨테이너 관리 자동화 시스템
 - 23.06 - Caiing / 미공개 중계 플랫폼
-- 23.04 - Membership Card for Univ. / 대학교 멤버십 플랫폼
+- 23.04 - UniMembers / 대학교 멤버십 플랫폼
 - 23.01 - VocaManager / 영어학원 업무 자동화 시스템
 - 22.07 - (주)로보그램 / 공식사이트 보수
 
