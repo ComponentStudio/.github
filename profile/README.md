@@ -1,6 +1,6 @@
 # Component Studio
 ![Services](https://img.shields.io/badge/Services-01-brightgreen)
-![Outsourcing](https://img.shields.io/badge/Outsourcing-04-blueviolet)
+![Outsourcing](https://img.shields.io/badge/Outsourcing-06-blueviolet)
 
 **{ Web, Server, Infra, Application }**  
 **상상하는 것을 실현할 수 있도록 다양한 분야를 끊임없이 연구하고 개발합니다.**
