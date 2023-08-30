@@ -10,7 +10,7 @@
 **유지보수:** 끊임없는 관심과 지속적인 업데이트를 통해 피드백을 제공하고 신뢰적 관계를 유지합니다.  
 
 ## Experience
-- 23.08 - FloraLink / B2B
+- 23.08 - FloraLink / B2B / 중계 시스템
 - 23.06 - auto-container / 컨테이너 관리 시스템
 - 23.06 - Caiing / 이커머스 플랫폼
 - 23.04 - UniMembers / 대학교 멤버십 플랫폼
