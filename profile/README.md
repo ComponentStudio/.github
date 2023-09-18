@@ -11,14 +11,14 @@
 
 ## Experience
 
-| 기간 | 서비스 | 설명 | 분야 |
+| 서비스 | 설명 | 분야 | 기간 |
 |-----|------|-----|-----|
-| 23.08 (3W) | FloraLink | B2B 화원 중계 시스템 | App, Web, Server |
-| 23.06 (2W) | auto-container | 화물 컨테이너 관리 프로그램 | Window |
-| 23.06 (3M) | Caiing | 맞춤 케이크 중계 플랫폼 | Web, Server |
-| 23.04 (1M) | UniMembers | 대학교 멤버십 플랫폼 | App, Server |
-| 23.01 (3M) | VocaManager | 영어학원 학습 플랫폼| Web, Server |
-| 22.07 (1W) | (주)로보그램 | 공식사이트 수정 | Web |
+| FloraLink | B2B 화원 중계 시스템 | App, Web, Server |23.08 (3W) |
+| auto-container | 화물 컨테이너 관리 프로그램 | Window | 23.06 (2W) |
+| Caiing | 맞춤 케이크 중계 플랫폼 | Web, Server | 23.06 (3M) |
+| UniMembers | 대학교 멤버십 플랫폼 | App, Server | 23.04 (1M) |
+| VocaManager | 영어학원 학습 플랫폼| Web, Server | 23.01 (3M) |
+| (주)로보그램 | 공식사이트 수정 | Web | 22.07 (1W) |
 
 
 ## Executives
