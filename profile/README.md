@@ -11,7 +11,7 @@
 
 ## Experience
 
-| 기간 | 서비스 | 설명 | 개발 |
+| 기간 | 서비스 | 설명 | 분야 |
 |-----|------|-----|-----|
 | 23.08 (3W) | FloraLink | B2B 화원 중계 시스템 | App, Web, Server |
 | 23.06 (2W) | auto-container | 화물 컨테이너 관리 프로그램 | Window |
