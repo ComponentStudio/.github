@@ -1,7 +1,8 @@
 # Component Studio
 
+![Since](https://img.shields.io/badge/Since-2023-blueviolet)
 ![Services](https://img.shields.io/badge/Services-01-brightgreen)
-![Outsourcing](https://img.shields.io/badge/Outsourcing-05-blueviolet)
+![Outsourcing](https://img.shields.io/badge/Outsourcing-05-blue)
 
 **컴포넌트 스튜디오는 상상하는 것을 실현할 수 있도록 끊임없이 연구하고 개발합니다.**
 
