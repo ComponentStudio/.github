@@ -21,13 +21,8 @@
 | VocaManager | 영어학원 학습 플랫폼| Web, Server | 23.01 (3M) |
 | (주)로보그램 | 공식사이트 수정 | Web | 22.07 (1W) |
 
-
-## Executives
-**김관식**
-
 ## Contacts
 * 사업자등록번호: 733-01-02880
 * 사업문의: gwansikk@icloud.com
-  
 
 **© Component Studio.**
