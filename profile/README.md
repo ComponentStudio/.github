@@ -19,7 +19,7 @@
 | Caiing | 맞춤 케이크 중계 플랫폼 | Web, Server | 23.06 (3M) |
 | UniMembers | 대학교 멤버십 플랫폼 | App, Server | 23.04 (1M) |
 | VocaManager | 영어학원 학습 플랫폼| Web, Server | 23.01 (3M) |
-| (주)로보그램 | 공식사이트 수정 | Web | 22.07 (1W) |
+| (주)로보그램 | 공식사이트 리뉴얼 | Web | 22.07 (1W) |
 
 ## Contacts
 * 사업자등록번호: 733-01-02880
