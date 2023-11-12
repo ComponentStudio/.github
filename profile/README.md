@@ -7,7 +7,6 @@
  \____/\___/|_| |_| |_| .__/ \___/|_| |_|\___|_| |_|\__| \____/ \__|\__,_|\__,_|_|\___/ 
                       | |                                                               
                       |_|                                                               
-                                                                                                                 
 ```
 ![Since](https://img.shields.io/badge/Since-2023-blueviolet)
 ![Services](https://img.shields.io/badge/Services-01-brightgreen)
