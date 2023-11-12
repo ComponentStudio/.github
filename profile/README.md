@@ -1,5 +1,14 @@
-# Component Studio
-
+```
+ _____                                              _     _____ _             _ _       
+/  __ \                                            | |   /  ___| |           | (_)      
+| /  \/ ___  _ __ ___  _ __   ___  _ __   ___ _ __ | |_  \ `--.| |_ _   _  __| |_  ___  
+| |    / _ \| '_ ` _ \| '_ \ / _ \| '_ \ / _ \ '_ \| __|  `--. \ __| | | |/ _` | |/ _ \ 
+| \__/\ (_) | | | | | | |_) | (_) | | | |  __/ | | | |_  /\__/ / |_| |_| | (_| | | (_) |
+ \____/\___/|_| |_| |_| .__/ \___/|_| |_|\___|_| |_|\__| \____/ \__|\__,_|\__,_|_|\___/ 
+                      | |                                                               
+                      |_|                                                               
+                                                                                                                 
+```
 ![Since](https://img.shields.io/badge/Since-2023-blueviolet)
 ![Services](https://img.shields.io/badge/Services-01-brightgreen)
 ![Outsourcing](https://img.shields.io/badge/Outsourcing-05-blue)
