@@ -10,7 +10,7 @@
 ```
 ![Since](https://img.shields.io/badge/Since-2023-blueviolet)
 ![Services](https://img.shields.io/badge/Services-01-brightgreen)
-![Outsourcing](https://img.shields.io/badge/Outsourcing-05-blue)
+![Outsourcing](https://img.shields.io/badge/Outsourcing-06-blue)
 
 **컴포넌트 스튜디오는 상상하는 것을 실현할 수 있도록 끊임없이 연구하고 개발합니다.**
 
@@ -22,7 +22,9 @@
 
 | 서비스 | 설명 | 분야 | 기간 |
 |-----|------|-----|-----|
-| FloraLink | B2B 화원 중계 시스템 | `App` `Web` `Server` |23.08 (3W) |
+| Kicks | 공유 킥보드 백오피스 | `Web` | 24.03 (2M) |
+| kgu-scenario | 주행 시나리오 생성 프로그램 | `Window` | 24.03 (2M) |
+| FloraLink | B2B 화원 주문 중개 시스템 | `App` `Web` `Server` |23.08 (3W) |
 | auto-container | 화물 컨테이너 관리 프로그램 | `Window` | 23.06 (2W) |
 | Caiing | 맞춤 케이크 중계 플랫폼 | `Web` `Server` | 23.06 (3M) |
 | VocaManager | 영어학원 학습 플랫폼| `Web` `Server` | 23.01 (3M) |
