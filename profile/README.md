@@ -26,7 +26,7 @@
 | 경기대학교 | 주행 시나리오 생성 프로그램 | `Windows` `Web` | 24/03 |
 | 재경난원 | B2B 화원 주문 중개 시스템 | [App](https://play.google.com/store/apps/details?id=com.jknan.jknan) `Web` `Server` |23/08 |
 | - | 화물 컨테이너 관리 프로그램 | `Windows` | 23/06 |
-| 케잉 | 맞춤 케이크 중계 플랫폼 | `Web` `Server` | 23/06 |
+| 케잉 | 맞춤 케이크 중개 플랫폼 | `Web` `Server` | 23/06 |
 | 보카매니저 | 영어학원 학습 플랫폼 | `Web` `Server` | 23/01 |
 | (주)로보그램 | 공식사이트 보수 | [Web](http://robogram.kr/) | 22/07 |
 
