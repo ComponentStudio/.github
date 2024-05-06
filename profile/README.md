@@ -8,7 +8,7 @@
                       | |                                                               
                       |_|                                                               
 ```
-![Since](https://img.shields.io/badge/Since-2023-blueviolet)
+![Since](https://img.shields.io/badge/Since-2022-blueviolet)
 ![Services](https://img.shields.io/badge/Services-01-brightgreen)
 ![Outsourcing](https://img.shields.io/badge/Outsourcing-06-blue)
 
@@ -20,18 +20,18 @@
 
 ## Experience
 
-| 서비스 | 설명 | 구분 | 기간 |
-|-----|------|-----|-----|
-| (주)킥스코퍼레이션 | 공유 킥보드 백오피스 | `Web` | 24.03 (2M) |
-| road-scenario-builder | 주행 시나리오 생성 프로그램 | `Window` `Web` | 24.03 (2M) |
-| 재경난원 | B2B 화원 주문 중개 시스템 | [App](https://play.google.com/store/apps/details?id=com.jknan.jknan) `Web` `Server` |23.08 (3W) |
-| auto-container | 화물 컨테이너 관리 프로그램 | `Window` | 23.06 (2W) |
-| Caiing | 맞춤 케이크 중계 플랫폼 | `Web` `Server` | 23.06 (3M) |
-| VocaManager | 영어학원 학습 플랫폼| `Web` `Server` | 23.01 (3M) |
-| (주)로보그램 | 공식사이트 개선 | [Web](http://robogram.kr/) | 22.07 (1W) |
+| 고객사 | 프로젝트명 | 개발 환경 | 기간 |
+|-----|-----|-----|-----|
+| (주)킥스코퍼레이션 | 공유 킥보드 백오피스 | `Web` | 24/03 |
+| 경기대학교 | 주행 시나리오 생성 프로그램 | `Windows` `Web` | 24/03 |
+| 재경난원 | B2B 화원 주문 중개 시스템 | [App](https://play.google.com/store/apps/details?id=com.jknan.jknan) `Web` `Server` |23/08 |
+| - | 화물 컨테이너 관리 프로그램 | `Windows` | 23/06 |
+| 케잉 | 맞춤 케이크 중계 플랫폼 | `Web` `Server` | 23/06 |
+| 보카매니저 | 영어학원 학습 플랫폼 | `Web` `Server` | 23/01 |
+| (주)로보그램 | 공식사이트 보수 | [Web](http://robogram.kr/) | 22/07 |
 
 ## Contacts
-* 사업자등록번호: 733-01-02880
-* 사업문의: iam@gwansik.dev
+* **사업자등록번호:** 733-01-02880
+* **사업문의:** iam@gwansik.dev, gwansikk@icloud.com
 
 **© Component Studio.**
