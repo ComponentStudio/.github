@@ -32,6 +32,6 @@
 
 ## Contacts
 * **사업자:** 컴포넌트 스튜디오(733-01-02880) `개인사업자`
-* **사업문의:** iam@gwansik.dev, gwansikk@icloud.com
+* **사업문의:** iam@gwansik.dev
 
 **© Component Studio.**
