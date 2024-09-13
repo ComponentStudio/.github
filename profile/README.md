@@ -31,7 +31,7 @@
 | (주)로보그램 | 공식사이트 보수 | [Web](http://robogram.kr/) | 22/07 |
 
 ## Contacts
-* **사업자:** 컴포넌트 스튜디오(733-01-02880) `개인사업자`
-* **사업문의:** iam@gwansik.dev
+* **사업자등록번호:** 733-01-02880 `개인사업자`
+* **사업문의:** gwansik.kim@gwansik.dev
 
 **© Component Studio.**
