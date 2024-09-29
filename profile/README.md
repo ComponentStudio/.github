@@ -8,9 +8,6 @@
                       | |                                                               
                       |_|                                                               
 ```
-![Since](https://img.shields.io/badge/Since-2022-blueviolet)
-![Services](https://img.shields.io/badge/Services-01-brightgreen)
-![Outsourcing](https://img.shields.io/badge/Outsourcing-06-blue)
 
 **컴포넌트 스튜디오는 상상하는 것을 실현할 수 있도록 끊임없이 연구하고 개발합니다.**
 
@@ -29,9 +26,5 @@
 | 케잉 | 맞춤 케이크 중개 플랫폼 | `Web` `Server` | 23/06 |
 | 보카매니저 | 영어학원 학습 플랫폼 | `Web` `Server` | 23/01 |
 | (주)로보그램 | 공식사이트 보수 | [Web](http://robogram.kr/) | 22/07 |
-
-## Contacts
-* **사업자등록번호:** 733-01-02880 `개인사업자`
-* **사업문의:** gwansik.kim@gwansik.dev
 
 **© Component Studio.**
